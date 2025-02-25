@@ -4,8 +4,8 @@ const Card = () => {
   return (
     
       
-        <div className='col'>
-          <div class="card" style={{ width: "18rem " }}>
+        
+          <div class="card">
             <img src="https://desarrollowebyseo.com.mx/wp-content/uploads/2022/10/Diseno-de-la-web-1024x683.jpg" class="card-img-top" alt="Diseño web personalizado" />
             <div class="card-body">
               <h5 class="card-title">Card title</h5>
@@ -16,7 +16,7 @@ const Card = () => {
               </div>
             </div>
             </div>
-          </div>
+          
         
       
         

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Jumbotron = () => {
   return (
-    <div className="p-5 text-center bg-body-tertiary rounded-3">
+    <div className="p-5 text-center bg-body-tertiary rounded-3 mb-4">
       <svg className="bi mt-4 mb-3" style={{ color: 'var(--bs-indigo)' }} width={100} height={100}><use xlinkHref="#bootstrap" /></svg>
       <h1 className="text-body-emphasis">Jumbotron with icon</h1>
       <p className="col-lg-8 mx-auto fs-5 text-muted">
